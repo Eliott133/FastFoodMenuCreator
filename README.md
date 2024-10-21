@@ -9,3 +9,21 @@ FastFoodMenuCreator is a web application designed to help restaurant owners, esp
 3. **Export Functionality**: Once the menu is created, it can be exported to different formats for deployment on various systems (e.g., JSON, CSV).
 4. **User-Friendly Interface**: Designed to replicate the fast-food ordering experience for a seamless transition to deployment.
 
+## Tech Stack
+
+- **Frontend**: 
+  - **React JS**: Used for building dynamic and interactive user interfaces.
+- **Backend**: 
+  - **Flask**: Python framework used to handle server-side operations and API requests.
+- **Database**: 
+  - **MongoDB**: NoSQL database to store menu items and user data in a flexible schema.
+- **Containerization**: 
+  - **Docker**: Used for setting up a stable and consistent development environment.
+  
+## Prerequisites
+
+- **Python 3.12**
+- **Flask**: Backend framework used to handle server-side functionality.
+- **React JS**: Frontend framework used for creating interactive user interfaces.
+- **Node JS and NPM**: Required for running the frontend environment and managing dependencies.
+- **MongoDB**: NoSQL database for storing the menu catalog.
