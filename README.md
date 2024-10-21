@@ -44,4 +44,9 @@ cd FastFoodMenuCreator
 docker-compose up --build
 ```
 
+## Usage
+
+- Access the application through the frontend by navigating to http://localhost:3000 in your browser.
+- The Flask backend API will be available at http://localhost:5000 to handle requests.
+
 
