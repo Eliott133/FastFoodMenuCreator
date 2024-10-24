@@ -32,7 +32,7 @@ FastFoodMenuCreator is a web application designed to help restaurant owners, esp
 
 ## Usage
 
-- Access the application through the frontend by navigating to http://localhost:3000 in your browser.
+- Access the application through the frontend by navigating to http://localhost:5173 in your browser.
 - The Flask backend API will be available at http://localhost:5000 to handle requests.
 
 
