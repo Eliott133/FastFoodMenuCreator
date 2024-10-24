@@ -29,20 +29,6 @@ FastFoodMenuCreator is a web application designed to help restaurant owners, esp
 - **Node JS and NPM**: Required for running the frontend environment and managing dependencies.
 - **MongoDB**: NoSQL database for storing the menu catalog.
 
-## Docker setup
-
-1) Before install [Docker](https://docs.docker.com/get-started/get-docker/) in your computer.
-2) Clone the repository :
-```bash
-git clone https://github.com/Eliott133/FastFoodMenuCreator.git
-```
-```bash
-cd FastFoodMenuCreator
-```
-3) Start deployment
-```bash
-docker-compose up --build
-```
 
 ## Usage
 
